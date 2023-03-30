@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-video",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "anonystick <anonystick@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "creatomate": "^1.0.4",
+    "node-fetch": "^2.6.9"
+  }
+}
